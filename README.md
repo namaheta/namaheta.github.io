@@ -1,5 +1,5 @@
-[index.html](https://github.com/user-attachments/files/33669623/index.html)
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +15,7 @@
             padding: 0;
             box-sizing: border-box;
         }
+		
        body {
 		    background: url('tree.jpg') center center / cover no-repeat fixed;
 		    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -26,6 +27,7 @@
 		    justify-content: center;
 		    padding: 2rem 1.5rem;
 }
+		
         .container {
             max-width: 820px;
             width: 100%;
@@ -36,9 +38,11 @@
             border: 2px solid #FF0A30;
             transition: box-shadow 0.3s ease;
         }
+		
         .container:hover {
             box-shadow: 0 80px 40px rgba(0, 0, 0, 0.06);
         }
+		
         /* header area */
         .header {
             display: flex;
@@ -47,6 +51,7 @@
             margin-bottom: 2.5rem;
             flex-wrap: wrap;
         }
+		
         .avatar {
             width: 96px;
             height: 96px;
@@ -64,6 +69,7 @@
             box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
             letter-spacing: -1px;
         }
+		
         .title h1 {
             font-family: 'Playfair Display', serif;
             font-size: 2.2rem;
@@ -72,6 +78,7 @@
             line-height: 1.2;
             letter-spacing: -0.01em;
         }
+		
         .title .subtitle {
             font-size: 1rem;
             font-weight: 400;
