@@ -15,7 +15,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
        body {
 		    background: url('tree.jpg') center center / cover no-repeat fixed;
 		    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -27,7 +26,6 @@
 		    justify-content: center;
 		    padding: 2rem 1.5rem;
 }
-
         .container {
             max-width: 820px;
             width: 100%;
@@ -38,11 +36,9 @@
             border: 2px solid #FF0A30;
             transition: box-shadow 0.3s ease;
         }
-
         .container:hover {
             box-shadow: 0 80px 40px rgba(0, 0, 0, 0.06);
         }
-
         /* header area */
         .header {
             display: flex;
@@ -51,7 +47,6 @@
             margin-bottom: 2.5rem;
             flex-wrap: wrap;
         }
-
         .avatar {
             width: 96px;
             height: 96px;
@@ -69,7 +64,6 @@
             box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
             letter-spacing: -1px;
         }
-
         .title h1 {
             font-family: 'Playfair Display', serif;
             font-size: 2.2rem;
@@ -78,7 +72,6 @@
             line-height: 1.2;
             letter-spacing: -0.01em;
         }
-
         .title .subtitle {
             font-size: 1rem;
             font-weight: 400;
@@ -418,7 +411,7 @@
 
         <!-- clean social links -->
 <div class="links">
-    <a href="https://www.linkedin.com/in/hetasuto/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/heta-suto-655203229/" target="_blank" rel="noopener noreferrer">
         <span class="arrow">→</span> LinkedIn
     </a>
     <a href="mailto:hetasuto924@gmail.com">
