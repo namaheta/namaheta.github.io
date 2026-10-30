@@ -347,7 +347,7 @@
             <div class="avatar">HS</div>
             <div class="title">
                 <h1>Heta SUTO</h1>
-                <div class="subtitle">Teacher | Data Manager | Aspiring Data Engineer <span>·</span> Systems Thinker</div>
+                <div class="subtitle"> Mathematics Teacher | Data Manager | Aspiring Data Engineer <span>·</span> Systems Thinker</div>
             </div>
         </div>
 
